@@ -34,19 +34,4 @@
 # #     print(f"{key} : {value}")
 # #     i+=1
 
-# # //message
-# #list Hassan = Full Stack Developer:
-# #list = ["Project web development ,(PHP,MYSQL ,JAVASCRIPT(ReactJS,Vuejs ,Augular ,Firebase ,superbase ,mogodb,ExpressJS ,Nodejs ), TAILWIND CSS , DATASCIENT PYTHON (oop ,) , "
-# #"numpy , Panda ,Web scaping, Chrome ,Py ,SImple automation ,MODEL AI ,ML , DL, GUI , DJANGO  PYTHON_PROJECT ,R :  data Sturture(list,set,tuples ,if-esle , loops) " ]
-
-# #custom project using list ,set,tuple,if-esle and loop
-# #project name : Grocery organizer
-
-# #objective :  buit a program to organizer a Grocery list where the user add ,remove or check organizer items.
-
-# #Features :
-# #use a list to store Grocery items
-# #use a set to store the unique categories of Groceries
-# #use  loop for continuous interaction
-# #usng if-esle to check the input and perform action
 
